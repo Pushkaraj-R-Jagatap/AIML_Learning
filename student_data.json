@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Rahul",
+        "marks": "85",
+        "age": "21",
+        "course": "Python"
+    },
+    {
+        "name": "Priya",
+        "marks": "ninety",
+        "age": "20",
+        "course": "Java"
+    },
+    {
+        "name": "Amit",
+        "marks": "45",
+        "age": null,
+        "course": "Python"
+    },
+    {
+        "name": " Sneha ",
+        "marks": "72 ",
+        "age": "22",
+        "course": "Java"
+    },
+    {
+        "name": "Rahul",
+        "marks": "85",
+        "age": "21",
+        "course": "Python"
+    },
+    {
+        "name": "Neha",
+        "marks": "two",
+        "age": "19",
+        "course": "Data Science"
+    },
+    {
+        "name": "Karan",
+        "marks": "95",
+        "age": "23",
+        "course": "Python"
+    },
+    {
+        "name": "Pooja",
+        "marks": "30",
+        "age": "20",
+        "course": "Java"
+    }
+]
